@@ -1,0 +1,14 @@
+META-INF/maven/com.example/pojo-generator/pom.xml
+com/example/pojo_generator/ConstraintAwarePojoGenerator.class
+com/example/pojo_generator/DatabaseConstraintExtractor$ColumnInfo.class
+com/example/pojo_generator/DatabaseConstraintExtractor$TableConstraints.class
+com/example/pojo_generator/DatabaseConstraintExtractor$PrimaryKeyConstraint.class
+com/example/pojo_generator/DatabaseConstraintExtractor$ForeignKeyConstraint.class
+com/example/pojo_generator/DatabaseConstraintExtractor.class
+com/example/pojo_generator/ConstraintAnalyzer.class
+META-INF/maven/com.example/pojo-generator/pom.properties
+com/example/pojo_generator/DatabaseConstraintExtractor$CheckConstraint.class
+com/example/pojo_generator/DatabaseConstraintExtractor$UniqueConstraint.class
+com/example/pojo_generator/SimplePojoGenerator.class
+com/example/pojo_generator/App.class
+META-INF/MANIFEST.MF
